@@ -15,5 +15,11 @@
   "testEnvName": "Warehouse test 4040",
   "testEnvDomain": "wm-test-4040",
   "testEnvUrl": "https://wm-test-4040.crm4.dynamics.com",
-  "testProfile": "test"
+  "testProfile": "test",
+  "appName": "wm-deploy-4040",
+  "appId": "0d07aee6-adaa-4f9d-a7f1-e5d0c2fce211",
+  "appObjectId": "8c50d084-6056-482a-ad46-ff8c7b932c28",
+  "servicePrincipalObjectId": "91408235-d36c-46c2-8e7c-967fa819ef7b",
+  "federatedCredentialName": "github-main",
+  "dataverseTestUrl": "https://wm-test-4040.crm4.dynamics.com"
 }
